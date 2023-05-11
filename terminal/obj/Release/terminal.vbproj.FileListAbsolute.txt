@@ -1,0 +1,11 @@
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\bin\Release\terminal.exe
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\bin\Release\terminal.pdb
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\bin\Release\terminal.xml
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\obj\Release\SmartDeviceProject1.Form1.resources
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\obj\Release\SmartDeviceProject1.Form2.resources
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\obj\Release\SmartDeviceProject1.Resources.resources
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\obj\Release\terminal.vbproj.GenerateResource.Cache
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\obj\Release\terminal.exe
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\obj\Release\terminal.xml
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\terminal\terminal\obj\Release\terminal.pdb
