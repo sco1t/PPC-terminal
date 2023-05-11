@@ -1,2 +1,3 @@
 This is a simple terminal for Pocket PCs 
-![pocket pc](docs/wire0.png)
+![ppc terminal.JPG](ppc terminal.JPG)
+![ppc terminal2.JPG](ppc terminal2.JPG)
