@@ -1,4 +1,4 @@
-This is a simple terminal for Pocket PCs running Windows Mobile 6
+This is a simple terminal for Pocket PCs running Windows Mobile 6 for PDA and phones
 
 
 ![ppc-terminal.JPG](/ppc-terminal.JPG)
