@@ -14,14 +14,12 @@ Public Class Form1
 
             SerialPort1.DiscardInBuffer()
 
-
-
             SerialPort1.Close()
         End If
 
         Form2.Show()
         Form2.ComboBox1.Items.Clear()
-
+        Form2.ComboBox1.Items.Add("Auto")
         For Each sp As String In IO.Ports.SerialPort.GetPortNames
             Form2.ComboBox1.Items.Add(sp)
         Next
@@ -29,7 +27,7 @@ Public Class Form1
 
     Private Sub MenuItem2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MenuItem2.Click
         If SerialPort1.IsOpen Then
-            SerialPort1.WriteLine(TextBox1.Text)
+            SerialPort1.WriteLine(TextBox2.Text)
             TextBox2.Text = String.Empty
         Else
             TextBox1.Text = TextBox1.Text & "Port not open :(" & vbCrLf
@@ -115,4 +113,7 @@ Public Class Form1
     End Sub
 
    
+    Private Sub SerialPort1_ErrorReceived(ByVal sender As Object, ByVal e As System.IO.Ports.SerialErrorReceivedEventArgs) Handles SerialPort1.ErrorReceived
+        Label1.Text = "serial error"
+    End Sub
 End Class
